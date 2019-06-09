@@ -6,7 +6,7 @@ import tempfile
 
 def display_graph(graph, graph_name=None):
     """
-    Generate graph visualization by using pydot and Graphviz
+    Generate graph image by using pydot and Graphviz
     Display graph image by using PIL (Python Image Library)
     """
     graph_type = "digraph" if graph.is_directed() else "graph"
