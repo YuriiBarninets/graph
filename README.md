@@ -1,7 +1,7 @@
 # Python Graph Implementation
 
 Created Graph, Vertex and Edge classes for representing graphs.  
-Also, display graph image by using pydot, graphviz and PIL(Python Image Library).
+Added an ability to display graph image by using pydot, graphviz and PIL(Python Image Library).
 
 ## Example of usage
 
