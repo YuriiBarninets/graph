@@ -64,3 +64,4 @@ for edge in outbound_edges:
 from graph import display_graph
 display_graph(graph, "Graph name")
 ```
+![Test graph](https://github.com/YuriiBarninets/graph/blob/master/graph_image.png)
